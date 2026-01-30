@@ -1,16 +1,17 @@
 {
-    "name": "rennshit/Baileys",
+    "name": "@vynex1st/baileys",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By Renn",
+    "description": "Custom Baileys fork by vynex1st",
     "keywords": [
-        "whatsapp-baileys"
+        "whatsapp-baileys",
+        "vynex1st"
     ],
-    "homepage": "https://github.com/rennshit/Baileys",
+    "homepage": "https://github.com/vynex1st/baileys",
     "repository": {
-        "url": "https://github.com/rennshit/Baileys"
+        "url": "https://github.com/vynex1st/baileys"
     },
     "license": "MIT",
-    "author": "Getsuzo - Company",
+    "author": "vynex1st",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -26,7 +27,7 @@
         "changelog:preview": "conventional-changelog -p angular -u",
         "gen:protobuf": "sh WAProto/GenerateStatics.sh",
         "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
-        "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
+        "lint:fix": "eslint src --fix --ext .js,.jsx,.tsx,.ts",
         "prepack": "",
         "prepare": "",
         "preinstall": "node ./engine-requirements.js",
@@ -73,7 +74,7 @@
         "ts-jest": "^27.0.3",
         "ts-node": "^10.8.1",
         "typedoc": "^0.24.7",
-        "typescript": "^4.6.4", 
+        "typescript": "^4.6.4",
         "json": "^11.0.0"
     },
     "peerDependencies": {
@@ -83,24 +84,16 @@
         "sharp": "^0.32.2"
     },
     "peerDependenciesMeta": {
-        "jimp": {
-            "optional": true
-        },
-        "link-preview-js": {
-            "optional": true
-        },
-        "qrcode-terminal": {
-            "optional": true
-        },
-        "sharp": {
-            "optional": true
-        }
+        "jimp": { "optional": true },
+        "link-preview-js": { "optional": true },
+        "qrcode-terminal": { "optional": true },
+        "sharp": { "optional": true }
     },
     "packageManager": "yarn@1.22.19",
     "engines": {
         "node": ">=20.0.0"
-    }, 
+    },
     "bugs": {
-      "url": "https://rennshit/Baileys/issues"
+        "url": "https://github.com/vynex1st/baileys/issues"
     }
 }

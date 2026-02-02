@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00e5ff;">SUPERIOR BAILEYS v7.0</h1>
+<h1 align="center" style="color:#00e5ff;">VYNX BAILEYS v1.0</h1>
 
 <p align="center">
   <img src="https://j.top4top.io/p_3659bi2od6.jpg" width="600"/>

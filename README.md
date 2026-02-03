@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00e5ff;">VYNX BAILEYS v1.0</h1>
+<h1 align="center" style="color:#00e5ff;">VYNX BAILEYS v2.0</h1>
 
 <p align="center">
   <img src="https://j.top4top.io/p_3659bi2od6.jpg" width="600"/>
@@ -14,7 +14,7 @@ engineered for <b>spam resistance</b> and <b>extreme payload (bug) handling</b>.
 <h2 style="color:#ff9800;">Overview</h2>
 
 <p style="color:#e0e0e0;">
-SUPERIOR BAILEYS v7.0 is a Baileys-based WhatsApp bot implementation focused on
+VYNEX v2.0 is a Baileys-based WhatsApp bot implementation focused on
 <b>stability, durability, and crash prevention</b> rather than feature quantity.
 This project is designed to remain operational under heavy message floods,
 malformed payloads, and unexpected message structures that commonly cause

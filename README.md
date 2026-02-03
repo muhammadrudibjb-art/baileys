@@ -97,6 +97,6 @@ of WhatsApp’s Terms of Service is entirely the responsibility of the user.
 </ul>
 
 <p align="center" style="color:#90a4ae;">
-SUPERIOR BAILEYS v7.0<br>
+VYNEX BAILEYS v2.0<br>
 <b>Built for stability, not gimmicks.</b>
 </p>

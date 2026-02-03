@@ -1,11 +1,11 @@
 <h1 align="center" style="color:#00e5ff;">VYNX BAILEYS v2.0</h1>
 
 <p align="center">
-  <img src="https://j.top4top.io/p_3659bi2od6.jpg" width="600"/>
+  <img src="https://f.top4top.io/p_36491l6471.jpg" width="600"/>
 </p>
 
 <p align="center" style="color:#b0bec5;">
-A hardened WhatsApp bot base built on <b>@whiskeysockets/baileys v7.0</b>,<br>
+A hardened WhatsApp bot base built on <b>@whiskeysockets/baileys v1.0</b>,<br>
 engineered for <b>spam resistance</b> and <b>extreme payload (bug) handling</b>.
 </p>
 
